@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+exist15Attr	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	23;"	e
+exist30Attr	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	19;"	e
+exist3Attr	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	27;"	e
+existAttrStar	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	17;"	e
+existFirstStar	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	40;"	e
+existSecondStar	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	43;"	e
+existThirdStar	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	46;"	e
+existTitleStar	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	37;"	e
+fh	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\find.lua	5;"	e
+find	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\find.lua	13;"	f
+findAndClick	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\find.lua	18;"	f
+fw	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\find.lua	4;"	e
+getPosition	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\find.lua	3;"	f
+isFrontPage	C:/Users/周宁/Documents/xspworkspace/隋唐挂机-上古皇陵/xsp/src\main.lua	11;"	e

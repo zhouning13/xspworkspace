@@ -1,0 +1,26 @@
+{
+	"style" : "default",
+	"config" : "save_隋唐挂机-远征收菜.dat",
+	"width" : 540,
+	"height" : 960,
+	"cancelscroll" : true,
+	"countdown" : 10,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+		{
+			"align" : "left",
+		   
+			"text" : "执行方式：",
+			"type" : "Label"
+		},
+		{
+		   "id" : "run_type",
+		   "list" : "只运行一次,反复运行",
+		   "select" : "0",
+		   "size" : 30,
+		   "type" : "RadioGroup",
+		   "orientation" : "horizontal" //选项排布方式为竖排
+		}
+	]
+}

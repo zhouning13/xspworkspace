@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+checkExit	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	6;"	f
+click	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	33;"	f
+fh	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	6;"	e
+find	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	18;"	f
+findAndClick	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	23;"	f
+fw	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	5;"	e
+getPoint	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	4;"	f
+getPosition	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\find.lua	12;"	f
+isBreak	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	23;"	e
+isBreak	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	47;"	e
+no_01	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	59;"	e
+no_02	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	60;"	e
+no_03	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	61;"	e
+no_04	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	62;"	e
+no_05	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	63;"	e
+opened1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	29;"	e
+opened2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	35;"	e
+x1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	25;"	e
+x1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	31;"	e
+x1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	39;"	e
+x1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	9;"	e
+x2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	10;"	e
+x2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	26;"	e
+x2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	32;"	e
+y1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	11;"	e
+y1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	27;"	e
+y1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	33;"	e
+y1	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	40;"	e
+y2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	12;"	e
+y2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	28;"	e
+y2	C:/Users/ÖÜÄş/Documents/xspworkspace/ËåÌÆ¹Ò»ú-¹ÅÄ¹ÒÅ¼£/xsp/src\main.lua	34;"	e

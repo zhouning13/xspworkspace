@@ -1,0 +1,26 @@
+{
+	"style" : "default",
+	"config" : "save_隋唐挂机-日常集成.dat",
+	"width" : 540,
+	"height" : 960,
+	"cancelscroll" : true,
+	"countdown" : 10,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+		 {
+		   "align" : "left",
+		   
+			 "text" : "上古皇陵：遇到属性加成时",
+		   "type" : "Label"
+		 },
+		 {
+		   "id" : "attr",
+		   "list" : "随便选,暂停,跳过皇陵",
+		   "select" : "0",
+		   "size" : 30,
+		   "type" : "RadioGroup",
+		   "orientation" : "horizontal" //选项排布方式为竖排
+		}
+	]
+}

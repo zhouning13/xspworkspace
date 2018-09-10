@@ -1,0 +1,46 @@
+{
+	"style" : "default",
+	"config" : "save_隋唐挂机.dat",
+	"width" : 540,
+	"height" : 960,
+	"cancelscroll" : true,
+	"countdown" : 10,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+		{
+		   "align" : "left",
+		   
+		   "text" : "挑战次数用完时",
+		   "type" : "Label"
+		 },
+		 {
+		   "id" : "countOver",
+		   "list" : "停止脚本,买次数继续",
+		   "select" : "0",
+		   "size" : 30,
+		   "type" : "RadioGroup",
+		   "orientation" : "horizontal" //选项排布方式为竖排
+		},
+		{
+		   "align" : "left",
+		   
+		   "text" : " ",
+		   "type" : "Label"
+		 },
+		 {
+		   "align" : "left",
+		   
+		   "text" : "挑战速度",
+		   "type" : "Label"
+		 },
+		{
+		   "id" : "challengeSpeed",
+		   "list" : "越快越好,挑战后稍许等待",
+		   "select" : "0",
+		   "size" : 30,
+		   "type" : "RadioGroup",
+		   "orientation" : "horizontal" //选项排布方式为竖排
+		}
+	]
+}

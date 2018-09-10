@@ -1,0 +1,17 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x6311\x6218\x42OSS/xsp/src/main.lua
+size=2
+2\SOURCEFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x6311\x6218\x42OSS/xsp/src/find.lua
+
+[UI]
+1\UIFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x6311\x6218\x42OSS/xsp/ui/ui.json
+size=1
+
+[RES]
+1\RESFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a/xsp/res/beginboss.png
+size=0
+2\RESFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a/xsp/res/close.png
+3\RESFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a/xsp/res/skip.png
+
+[LIB]
+size=0

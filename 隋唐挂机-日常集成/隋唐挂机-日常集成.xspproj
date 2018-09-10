@@ -1,0 +1,16 @@
+[SOURCE]
+1\SOURCEFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x65e5\x5e38\x96c6\x6210/xsp/src/base.lua
+size=3
+2\SOURCEFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x65e5\x5e38\x96c6\x6210/xsp/src/main.lua
+3\SOURCEFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x65e5\x5e38\x96c6\x6210/xsp/src/b_base.lua
+
+[UI]
+1\UIFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x65e5\x5e38\x96c6\x6210/xsp/ui/ui.json
+size=1
+2\UIFILE=C:/Users/\x5468\x5b81/Documents/xspworkspace/\x968b\x5510\x6302\x673a-\x65e5\x5e38\x96c6\x6210/xsp/ui/where.json
+
+[RES]
+size=0
+
+[LIB]
+size=0
